@@ -34,3 +34,4 @@ The production output is generated in `dist/`.
 - Positioning: Civil Contractor & Supplier; registered with MSME and on GeM.
 - Project imagery is copied locally from the authorized shared project gallery.
 - The enquiry form prepares a WhatsApp message locally. It does not send data until the visitor confirms in WhatsApp.
+# rd-landingpage
